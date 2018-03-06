@@ -4,6 +4,7 @@ NRF24L01 With ATmega328p Wireless control for car electrical system.
 Transmitter run on ATmega 328p running on low power mode 1mhz: https://forum.mysensors.org/topic/3018/tutorial-how-to-burn-1mhz-8mhz-bootloader-using-arduino-ide-1-6-5-r5/2
 Receiver run on Teensy 3.2 with SN65HVD230 transceiver, module communicate with front/rear/midle modules over CanBus
 CanBus Modules run on Teensy 3.2 with SN65HVD230 transceiver.
+Wiper control over LinBus (motor from BMW) LIN library from: https://github.com/gandrewstone/LIN/blob/master/LIN.ino
   
   Transmitter:
 
